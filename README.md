@@ -1,3 +1,3 @@
-# McHack Git Demo
+# McHacks Git Demo
 
-Participate in the heackathon!
+Participate in the hackathon!
