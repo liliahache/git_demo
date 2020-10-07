@@ -1,3 +1,5 @@
 # McHacks Git Demo
 
-Participate in the hackathon!
+Participate in the Hackathon!
+
+I hope this is useful!
